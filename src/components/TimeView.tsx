@@ -12,8 +12,8 @@ export const CenterWrapper = styled.div`
 `
 
 const Timer = styled(CenterWrapper)`
-  font-size: 65px;
-  letter-spacing: 4px;
+  font-size: 78px;
+  letter-spacing: 3px;
 `
 
 const DateWrapper = styled(CenterWrapper)`
